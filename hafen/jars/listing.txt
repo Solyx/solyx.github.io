@@ -1,0 +1,2 @@
+1e3b90b085b222d3ca91939c0e2afbefc13f1874 ./hafen.jar
+6732f5f7218ea6024bcb42de7e6e082fdb23fbc0 ./client-res.jar
