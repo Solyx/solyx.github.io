@@ -1,0 +1,1 @@
+sha1sum hafen.jar | sed "s#  # ./#"
