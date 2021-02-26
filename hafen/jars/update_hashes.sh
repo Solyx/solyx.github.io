@@ -1,1 +1,0 @@
-sha1sum hafen.jar lib/client-res.jar | sed "s#  # ./#" > listing.txt
