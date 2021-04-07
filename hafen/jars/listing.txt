@@ -1,2 +1,2 @@
-d05f8652d583a46aed0850c5a6bd9fb8ec043669 ./hafen.jar
-559f8897966f829d5fe1f254d07a61162a84e696 ./lib/client-res.jar
+32a9de1a8cad4542663fa751a7688a4f67a05cd0 ./hafen.jar
+5575e3ea69f935092b99d2490c82d37d7dbb5b1f ./lib/client-res.jar
